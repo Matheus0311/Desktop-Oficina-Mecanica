@@ -1,0 +1,16 @@
+com\mycompany\models\Cidade_.class
+com\mycompany\models\Estado.class
+com\mycompany\models\Usuario_.class
+com\mycompany\models\Cliente_.class
+com\mycompany\models\Funcionario_.class
+com\mycompany\models\Cargo_.class
+com\mycompany\models\Cidade.class
+com\mycompany\models\Estado_.class
+com\mycompany\models\Endereco_.class
+com\mycompany\mecanica\Mecanica.class
+com\mycompany\models\Cargo.class
+com\mycompany\models\Cliente.class
+com\mycompany\persistence\Dao.class
+com\mycompany\models\Endereco.class
+com\mycompany\models\Usuario.class
+com\mycompany\models\Funcionario.class
